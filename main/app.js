@@ -2,10 +2,6 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 // const fs = require('inquirer');
 const {writeFile} = require('./utils/create-readme');
-// const pageHTML = generatePage(name, github);
-
-//   console.log('Portfolio complete! Check out index.html to see the output!');
-// });
 
 const promptUser = () => {
   return inquirer.prompt([
@@ -33,20 +29,6 @@ const promptUser = () => {
           return true;
         } else {
           console.log('Please enter a description of your project!');
-          return false;
-        }
-      }
-    },
-    //table of contents
-    {
-      type: 'input',
-      name: 'tableOfContents',
-      message: 'What is included in your README:',
-      validate: contentsInput => {
-        if (contentsInput) {
-          return true;
-        } else {
-          console.log('Please enter a table of contenents!');
           return false;
         }
       }
@@ -83,6 +65,19 @@ const promptUser = () => {
           type: 'input',
           name: 'contributors',
           message: 'Who helped?(include contact info if have)',
+          validate: contentsInput => {
+            if (contentsInput) {
+              return true;
+            } else {
+              return true;
+            }
+          }
+        },
+        //contact
+        {
+          type: 'input',
+          name: 'contact',
+          message: 'What is yor email?',
           validate: contentsInput => {
             if (contentsInput) {
               return true;

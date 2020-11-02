@@ -18,10 +18,11 @@ For this project I worked solely in JS using Node.js to create a fully functioni
 * [Questions](#questions)
 
 ## <a name="installation">Installation</a>
-Download files from https://github.com/cgsdesign/README-Gen then, in your command line, go into the main README-Gen folder and type node index.js. The file will automatically run.
+Download files from [this github repo](https://github.com/cgsdesign/README-Gen) then, in your command line, go into the main README-Gen folder and type node index.js. The file will automatically run.
 
-## <a name="usage">Languages/Resources</a> 
-* JavaScript, Node
+## <a name="usage">Usage</a> 
+to view a walkthough on how to use the app, Please click below for a video walkthough. 
+* [Video Walkthough](https://drive.google.com/file/d/1Zz0oN5Jf-DG-DxzAvDijUjrhc4sKpGBb/view)
 
 ## <a name="credits">Credits</a>
 * Inquirer Copyright (c) 2012 Simon Boudrias
@@ -37,7 +38,7 @@ Download files from https://github.com/cgsdesign/README-Gen then, in your comman
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 
 ## <a name="test">Tests</a>
-* node index.js
+*  node index.js
 
 ## <a name="questions">Questions</a>
 ###contact me at: 

@@ -1,11 +1,11 @@
 
 
-# README-Gen
+# Test Project
 ![license](https://img.shields.io/badge/MIT-License-brightgreen)
 
 ## Description 
 
-For this project I worked solely in JS using Node.js to create a fully functioning README pull though in line commands. Using a series of prompts, the program collect user feedback about their project. The information is then run through another function to generate a .md template based on the users feedback.
+Test: For this project I worked solely in JS using Node.js to create a fully functioning README pull though in line commands. Using a series of prompts, the program collect user feedback about their project. The information is then run through another function to generate a .md template based on the users feedback.
 
 ## Table of Contents (Optional)
 * [Installation](#installation)
@@ -18,28 +18,28 @@ For this project I worked solely in JS using Node.js to create a fully functioni
 * [Questions](#questions)
 
 ## <a name="installation">Installation</a>
-Download files from https://github.com/cgsdesign/README-Gen then in your comand line, go into the main README-Gen folder and type node index.js 
+Download files from https://github.com/cgsdesign/README-Gen then, in your command line, go into the main README-Gen folder and type node index.js. The file will automatically run.
 
 ## <a name="usage">Usage</a> 
-* JavaScript,Node
+* [Watch the Video to see usage](https://drive.google.com/file/d/1Zz0oN5Jf-DG-DxzAvDijUjrhc4sKpGBb/view)
 
 ## <a name="credits">Credits</a>
-* N/A
+* Kevin
 
 ## <a name="license">License</a>
 * MIT
 
 ## <a name="badge">Badges</a>
 
-![badge](https://img.shields.io/badge/undefined-primary-orange)
+![badge](https://img.shields.io/badge/JavaScript-primary-orange)
 
 ## <a name="contributing">Contributing</a>
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 
 ## <a name="test">Tests</a>
-* node index.js
+* node index
 
 ## <a name="questions">Questions</a>
-###contact me at: 
-* github: [https://github.com/cgsdesign/README-Gen](https://github.com/cgsdesign/README-Gen)
+contact me at: 
+* github: [text.github](text.github)
 * email: [cgsdesignmadison@gmail.com](cgsdesignmadison@gmail.com)

@@ -47,16 +47,28 @@ const promptUser = () => {
         },
         //usage -what used
         {
-          type: 'checkbox',
+          type: 'input',
           name: 'usage',
+          message: 'How can you use the program?',
+          validate: instalInput => {
+            if (instalInput) {
+              return true;
+            } else {
+              console.log('Please give instructions/uses!')
+            }
+          }
+        },
+        {
+          type: 'checkbox',
+          name: 'otherLanguages',
           message: 'What did you use to make this project? (Check all that apply)',
-          choices: ['JavaScript', 'HTML', 'CSS', 'Node']
+          choices: ['JavaScript ', 'HTML ', 'CSS ', 'Node.js ']
         },
         //primary used
         {
           type: 'checkbox',
           name: 'primary',
-          message: 'What did you use to make this project? (Check ONE)',
+          message: 'What primary language did you use? (Check ONE)',
           choices: ['JavaScript', 'HTML', 'CSS', 'Node.js'],
           validate: instalInput => {
             if (instalInput) {
@@ -64,8 +76,7 @@ const promptUser = () => {
             } else {
               console.log('Please enter a primary coding language!')
             }
-          }
-          
+          }  
         },
         //license
         {

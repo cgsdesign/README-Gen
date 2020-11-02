@@ -11,7 +11,7 @@ const {
   usage,
   license,
   contact,
-  otherPrograms,
+  otherLanguages,
   primary,
   contributors,
   test,
@@ -52,7 +52,7 @@ ${installInstructions}
 ## <a name="badge">Badges & Primary Languages</a>
 
 ![badge](https://img.shields.io/badge/${primary}-primary-orange)
-* Other Languages/Resources Used: ${otherPrograms}
+* Other Languages/Resources Used: ${otherLanguages}
 
 ## <a name="contributing">Contributing</a>
 * [Contributor Covenant](https://www.contributor-covenant.org/)

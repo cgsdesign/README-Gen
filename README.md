@@ -24,7 +24,7 @@ Download files from https://github.com/cgsdesign/README-Gen then in your comand 
 * JavaScript,Node
 
 ## <a name="credits">Credits</a>
-* N/A
+* Inquirer Copyright (c) 2012 Simon Boudrias
 
 ## <a name="license">License</a>
 * MIT

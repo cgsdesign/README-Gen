@@ -55,7 +55,7 @@ const promptUser = () => {
         //primary used
         {
           type: 'checkbox',
-          name: 'usage',
+          name: 'primary',
           message: 'What did you use to make this project? (Check ONE)',
           choices: ['JavaScript', 'HTML', 'CSS', 'Node.js'],
           validate: instalInput => {
@@ -85,7 +85,7 @@ const promptUser = () => {
         {
           type: 'input',
           name: 'contributors',
-          message: 'Who helped?(include contact info if have)',
+          message: 'Who helped?(include contact info if have)'
         },
         //test
         {

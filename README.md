@@ -31,7 +31,7 @@ Download files from https://github.com/cgsdesign/README-Gen then in your comand 
 
 ## <a name="badge">Badges</a>
 
-![badge](https://img.shields.io/badge/undefined-primary-orange)
+![badge](https://img.shields.io/badge/JavaScript-primary-orange)
 
 ## <a name="contributing">Contributing</a>
 * [Contributor Covenant](https://www.contributor-covenant.org/)

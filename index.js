@@ -62,7 +62,7 @@ const promptUser = () => {
           type: 'checkbox',
           name: 'otherLanguages',
           message: 'What did you use to make this project? (Check all that apply)',
-          choices: ['JavaScript ', 'HTML ', 'CSS ', 'Node.js ']
+          choices: ['JavaScript', ' HTML', ' CSS ', ' Node.js']
         },
         //primary used
         {

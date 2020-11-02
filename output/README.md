@@ -21,7 +21,7 @@ Test: For this project I worked solely in JS using Node.js to create a fully fun
 Download files from https://github.com/cgsdesign/README-Gen then, in your command line, go into the main README-Gen folder and type node index.js. The file will automatically run.
 
 ## <a name="usage">Usage</a> 
-* Use me
+* build readme see video
 
 ## <a name="credits">Credits</a>
 * Kevin
@@ -32,7 +32,7 @@ Download files from https://github.com/cgsdesign/README-Gen then, in your comman
 ## <a name="badge">Badges & Primary Languages</a>
 
 ![badge](https://img.shields.io/badge/JavaScript-primary-orange)
-* Other Languages/Resources Used: undefined
+* Other Languages/Resources Used: JavaScript ,Node.js 
 
 ## <a name="contributing">Contributing</a>
 * [Contributor Covenant](https://www.contributor-covenant.org/)
@@ -43,4 +43,4 @@ Download files from https://github.com/cgsdesign/README-Gen then, in your comman
 ## <a name="questions">Questions</a>
 contact me at: 
 * github: [test.github](test.github)
-* email: [cgsdesignmadison@gmail.com](cgsdesignmadison@gmail.com)
+* email: [test@gmail.com](test@gmail.com)

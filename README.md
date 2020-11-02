@@ -7,7 +7,7 @@
 
 For this project I worked solely in JS using Node.js to create a fully functioning README pull though in line commands. Using a series of prompts, the program collect user feedback about their project. The information is then run through another function to generate a .md template based on the users feedback.
 
-## Table of Contents (Optional)
+## Table of Contents
 * [Installation](#installation)
 * [Languages Used](#usage)
 * [Credits](#credits)
@@ -22,7 +22,7 @@ Download files from [this github repo](https://github.com/cgsdesign/README-Gen) 
 
 ## <a name="usage">Usage</a> 
 to view a walkthough on how to use the app, Please click below for a video walkthough. 
-* [Video Walkthough](https://drive.google.com/file/d/1Zz0oN5Jf-DG-DxzAvDijUjrhc4sKpGBb/view)
+* [Video Walkthough](https://drive.google.com/file/d/1CskHt9y--WBIyhQ3ZS0qlPecK8tQyu-Q/view)
 
 ## <a name="credits">Credits</a>
 * Inquirer Copyright (c) 2012 Simon Boudrias
@@ -32,7 +32,8 @@ to view a walkthough on how to use the app, Please click below for a video walkt
 
 ## <a name="badge">Badges</a>
 
-![badge](https://img.shields.io/badge/JavaScript-primary-orange)
+![badge](https://img.shields.io/badge/JavaScript-75%-orange)
+![badge](https://img.shields.io/badge/Node.js-25%-red)
 
 ## <a name="contributing">Contributing Information</a>
 * [Contributor Covenant](https://www.contributor-covenant.org/)

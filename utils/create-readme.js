@@ -59,7 +59,7 @@ ${installInstructions}
 * ${test}
 
 ## <a name="questions">Questions</a>
-###contact me at: 
+contact me at: 
 * github: [${github}](${github})
 * email: [${contact}](${contact})
 `
